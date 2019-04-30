@@ -1,0 +1,6 @@
+﻿  rotating_initials.cpp
+\\cs1\classes\cs-357-1-compgraphics\ksobtafoalambong20\homework\hw4\rotating_initials.cpp(1): warning C4005: 'WIN32': macro redefinition
+  \\cs1\classes\cs-357-1-compgraphics\ksobtafoalambong20\homework\hw4\rotating_initials.cpp(1): note: command-line arguments:  see previous definition of 'WIN32'
+c:\superbible\include\vmath.h(1022): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGL_Triangle.vcxproj -> \\cs1\classes\CS-357-1-CompGraphics\ksobtafoalambong20\HOMEWORK\HW4\Debug\OpenGL_Triangle.exe
